@@ -8,7 +8,8 @@
 이렇게 천천히 발자국을 넓혀 세상을 다 걸어보자.<br>
 
 ## 🖥&nbsp; 실행 화면
-
+![Frame 3](https://github.com/kyum-q/Trecord_IOS/assets/109158497/69b2d842-0397-420b-9f3f-afee1638f26e)
+![Frame 2](https://github.com/kyum-q/Trecord_IOS/assets/109158497/af9094e3-615a-4476-be86-7ed68181d283)
 
 ## 📍&nbsp; 시스템 구조
 ![Group 28 (2)](https://github.com/kyum-q/Trecord_IOS/assets/109158497/1a1092f0-4e05-45ac-8942-f297b452ea0a)
