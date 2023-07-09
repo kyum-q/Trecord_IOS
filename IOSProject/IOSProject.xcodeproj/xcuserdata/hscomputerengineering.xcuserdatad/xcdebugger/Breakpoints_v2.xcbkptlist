@@ -1,0 +1,120 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Bucket
+   uuid = "E1EE14F8-892B-41D5-88FF-DF63EED9D31F"
+   type = "1"
+   version = "2.0">
+   <Breakpoints>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            uuid = "AC2982E2-7F4C-4B90-B719-4B4DF71B3EE5"
+            shouldBeEnabled = "Yes"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "IOSProject/TraceGroupViewController.swift"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "203"
+            endingLineNumber = "203"
+            landmarkName = "gotoSettingView(_:)"
+            landmarkType = "7">
+            <Locations>
+               <Location
+                  uuid = "AC2982E2-7F4C-4B90-B719-4B4DF71B3EE5 - fdb8ead72b37dbc1"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "IOSProject.TraceGroupViewController.gotoSettingView(__C.UIButton) -&gt; ()"
+                  moduleName = "IOSProject"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/hscomputerengineering/Desktop/KyungMi_IOS/IOSProject/IOSProject/TraceGroupViewController.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "200"
+                  endingLineNumber = "200"
+                  offsetFromSymbolStart = "56">
+               </Location>
+               <Location
+                  uuid = "AC2982E2-7F4C-4B90-B719-4B4DF71B3EE5 - fdb8ead72b37dbc1"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "IOSProject.TraceGroupViewController.gotoSettingView(__C.UIButton) -&gt; ()"
+                  moduleName = "IOSProject"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/hscomputerengineering/Desktop/KyungMi_IOS/IOSProject/IOSProject/TraceGroupViewController.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "200"
+                  endingLineNumber = "200"
+                  offsetFromSymbolStart = "288">
+               </Location>
+            </Locations>
+         </BreakpointContent>
+      </BreakpointProxy>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            uuid = "0693F3CB-BE4A-4523-944B-D9953635C44D"
+            shouldBeEnabled = "Yes"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "IOSProject/TraceGroupViewController.swift"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "190"
+            endingLineNumber = "190"
+            landmarkName = "logoutButtonTapped(_:)"
+            landmarkType = "7">
+         </BreakpointContent>
+      </BreakpointProxy>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            uuid = "5A02AD93-E3C2-4A59-83F5-BD69BFF0659F"
+            shouldBeEnabled = "Yes"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "IOSProject/SettingViewController.swift"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "37"
+            endingLineNumber = "37"
+            landmarkName = "logout(_:)"
+            landmarkType = "7">
+            <Locations>
+               <Location
+                  uuid = "5A02AD93-E3C2-4A59-83F5-BD69BFF0659F - ed6d27fa34c5610"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "IOSProject.SettingViewController.logout(__C.UIButton) -&gt; ()"
+                  moduleName = "IOSProject"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/hscomputerengineering/Desktop/KyungMi_IOS/IOSProject/IOSProject/SettingViewController.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "37"
+                  endingLineNumber = "37"
+                  offsetFromSymbolStart = "252">
+               </Location>
+               <Location
+                  uuid = "5A02AD93-E3C2-4A59-83F5-BD69BFF0659F - ed6d27fa34c5610"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "IOSProject.SettingViewController.logout(__C.UIButton) -&gt; ()"
+                  moduleName = "IOSProject"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/hscomputerengineering/Desktop/KyungMi_IOS/IOSProject/IOSProject/SettingViewController.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "37"
+                  endingLineNumber = "37"
+                  offsetFromSymbolStart = "508">
+               </Location>
+            </Locations>
+         </BreakpointContent>
+      </BreakpointProxy>
+   </Breakpoints>
+</Bucket>
