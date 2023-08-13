@@ -1,6 +1,6 @@
 # 위치 기반 발자취 기록 앱, Trecord(Trace Record)
 ![Frame 1](https://github.com/kyum-q/Trecord_IOS/assets/109158497/6394ba65-322f-433e-88dc-7f0baba88c62)
-
+ 
 ## ✍🏻&nbsp; 작품 소개
 **“여기 저기 움직이며 발자국으로 추억을 남겨보세요.”**<br><br>
 여행을 다니면서, 혹은 놀러 갔을 때 무엇을 통해 추억을 기록하는가? 지금까지는 단순 사진 촬영이나 영상 촬영으로 기록을 했을 것이다. 위치 기반으로 발자취를 기록해주는 앱, Trecord(Trace Record)를 통해 위치와 날짜, 사진, 글을 손쉽게 기록할 수 있다.<br>
