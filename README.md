@@ -1,5 +1,5 @@
 # 위치 기반 발자취 기록 앱, Trecord(Trace Record)
-![Frame 1](https://github.com/kyum-q/Trecord_IOS/assets/109158497/6394ba65-322f-433e-88dc-7f0baba88c62)
+![Frame 1](https://github.com/kyum-q/Trecord_IOS/assets/109158497/6394ba65-322f-433e-88dc-7f0baba88c62) 
  
 ## ✍🏻&nbsp; 작품 소개
 **“여기 저기 움직이며 발자국으로 추억을 남겨보세요.”**<br><br>
